@@ -4,7 +4,7 @@
 ## 🎓**Education**
 *Hanshin University,* Digital Culture Contents
 
-*Multicampus,* Data Bootcamp
+*Multicampus,* Big Data Bootcamp
 
 ## 💡**Interesting**
 
